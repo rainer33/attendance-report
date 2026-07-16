@@ -1,0 +1,38 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "John Doe",
+    "shift_start": "09:00",
+    "shift_end": "17:00"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Sarah Tan",
+    "shift_start": "09:00",
+    "shift_end": "17:00"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Michael Lee",
+    "shift_start": "09:00",
+    "shift_end": "17:00"
+  },
+  {
+    "employee_id": "EMP004",
+    "name": "Yuki Sato",
+    "shift_start": "09:00",
+    "shift_end": "17:00"
+  },
+  {
+    "employee_id": "EMP005",
+    "name": "Ahmad Zaki",
+    "shift_start": "09:00",
+    "shift_end": "17:00"
+  },
+  {
+    "employee_id": "EMP006",
+    "name": "Lisa Chen",
+    "shift_start": "09:00",
+    "shift_end": "17:00"
+  }
+]
